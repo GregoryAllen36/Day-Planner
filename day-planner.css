@@ -1,0 +1,30 @@
+body {
+    background-color: #719192;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: azure;
+}
+
+p {
+    font-family: cursive;
+    color: azure;
+}
+
+.jumbotron {
+    background-color: #719192;
+    text-align: center;
+}
+
+hr {
+    width: 25%;
+
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #e8ecd6;
+}
+
